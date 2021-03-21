@@ -17,6 +17,7 @@ const appRoutes: Routes = [
 @NgModule({
   declarations: [
     AppComponent,
+    LandingComponent,
     ProductsComponent
   ],
   imports: [
